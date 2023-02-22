@@ -1,0 +1,13 @@
+button{
+    text-align: center;
+    align-items: center;
+    background-color: rgb(191, 255, 95);
+    font-size: 25px;
+    height: 45px;
+    padding: 4px;
+    width: 300px;
+}
+.btn{
+    padding-top: 130px;
+    text-align:center ;
+}
